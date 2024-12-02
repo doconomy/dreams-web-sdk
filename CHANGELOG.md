@@ -1,3 +1,27 @@
+# [1.7.0](https://github.com/doconomy/dreams-web-sdk/compare/v1.6.0...v1.7.0) (2024-12-02)
+
+
+### Bug Fixes
+
+* release config ([9a05794](https://github.com/doconomy/dreams-web-sdk/commit/9a05794366b7d6b64f831efea0f8c520edad35d0))
+
+
+### Features
+
+* add more exports in main.ts ([dc48d26](https://github.com/doconomy/dreams-web-sdk/commit/dc48d26fae047ab6f6e7c50c3188d8d22a0e6be3))
+
+# [1.7.0](https://github.com/doconomy/dreams-web-sdk/compare/v1.6.0...v1.7.0) (2024-12-02)
+
+
+### Bug Fixes
+
+* release config ([9a05794](https://github.com/doconomy/dreams-web-sdk/commit/9a05794366b7d6b64f831efea0f8c520edad35d0))
+
+
+### Features
+
+* add more exports in main.ts ([dc48d26](https://github.com/doconomy/dreams-web-sdk/commit/dc48d26fae047ab6f6e7c50c3188d8d22a0e6be3))
+
 # [1.5.0](https://github.com/dreamstechnology/dreams-web-sdk/compare/v1.4.1...v1.5.0) (2024-05-21)
 
 
