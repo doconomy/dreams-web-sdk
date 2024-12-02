@@ -17,7 +17,7 @@ const commitAnalyzer = [
 module.exports = {
   preset: 'angular',
   branches: ['main'],
-  repositoryUrl: 'git@github.com:dreamstechnology/dreams-web-sdk.git',
+  repositoryUrl: 'git@github.com:doconomy/dreams-web-sdk.git',
   plugins: [
     commitAnalyzer,
     '@semantic-release/release-notes-generator',
