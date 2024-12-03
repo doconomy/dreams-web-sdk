@@ -1,7 +1,7 @@
 {
   "name": "dreams-web-sdk",
   "license": "MPL-2.0",
-  "version": "0.0.0-development",
+  "version": "1.7.0",
   "main": "dist/cjs/dreams-web-sdk.js",
   "module": "dist/esm/dreams-web-sdk.js",
   "types": "dist/types/main.d.ts",
